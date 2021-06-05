@@ -1,4 +1,4 @@
 # Newsletter-Signup
-/nI make this project in Web development bootcamp course.
-/nProject use mailchimp API
-https://newsletter-signup-try.herokuapp.com/
+* I make this project in Web development bootcamp course.
+* Project use mailchimp API
+* Project Demo: https://newsletter-signup-try.herokuapp.com/
